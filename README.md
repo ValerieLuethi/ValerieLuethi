@@ -14,4 +14,4 @@ Take a look at my portfolio where I showcase my projects.
 - Visualization: Tableau
 
 ### 🙋🏻‍♀️ Connect with me
-- www.linkedin.com/in/valerie-luethi
+- [LinkedIn] (www.linkedin.com/in/valerie-luethi)
