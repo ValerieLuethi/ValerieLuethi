@@ -4,3 +4,14 @@ Hello, I'm Valerie. Currently pursuing a masters'degree in Applied Information a
 Before transitioning into Data Science, I gained valuable experience working in HR and Learning & Development projects, which has given me strong insights into people-centric business challenges. I'm passionate about using data to solve real-world problems and translating complex information into clear, actionable insights. I enjoy collaborating with others and am committed to continuous learning and growth.
 
 ### 📚 Projects
+Take a look at my portfolio where I showcase my projects.
+
+### 🎓 Skills
+- Programming Languages: Python, R, SQL
+- Data Manipulation & Analysis: pandas, statistics, time series analysis
+- Machine Learning: Supervised and unsupervised learning (regression, classification, clustering), scikit-learn
+- Database: MySQL
+- Visualization: Tableau
+
+### 🙋🏻‍♀️ Connect with me
+- www.linkedin.com/in/valerie-luethi
