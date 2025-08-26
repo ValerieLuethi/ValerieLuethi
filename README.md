@@ -10,8 +10,8 @@ Take a look at my [portfolio](https://github.com/ValerieLuethi/Portfolio) where 
 - Programming Languages: Python, R, SQL
 - Data Manipulation & Analysis: pandas, statistics, time series analysis
 - Machine Learning: Supervised and unsupervised learning (regression, classification, clustering), scikit-learn
-- Database: MySQL
-- Visualization: Tableau
+- Database: MySQL, SQLite
+- Visualization: Tableau, PowerBI
 
 ### 🙋🏻‍♀️ Connect with me
 - [LinkedIn](www.linkedin.com/in/valerie-luethi)
